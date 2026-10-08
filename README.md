@@ -39,26 +39,25 @@ QSkill-Spotify-Downloader/
 
 ## How to Run
 
-1. Install Node.js.
-
-2. Open the project folder in VS Code.
-
-3. Open the terminal.
-
-4. Install dependencies:
-
-```bash
-
+How to Run
+1. Install Node.js
+Make sure Node.js is installed on your computer.
+2. Open the project folder in VS Code
+Open the QSkill-Spotify-Downloader folder in VS Code.
+3. Open the terminal
+Open the VS Code terminal in the project folder.
+4. Install dependencies
 npm install
 
-5. Start the server:
+5. Start the server
 node server.js
 
-6. Open the application in your browser:
+6. Open the application
+Open the following address in your browser:
 http://localhost:3000
 
-7. Enter a Spotify track URL and click Download.
-
+7. Use the application
+Enter a Spotify track URL and click Download.
 Note
 The application uses a legally provided sample MP3 for the download demonstration. The Spotify URL is used for input validation and demonstration of the application workflow.
 
